@@ -1,10 +1,8 @@
-- 👋 Hi, I’m @Suaksh007
-- 👀 I’m interested in ...coding and working out
-- 🌱 I’m currently learning ... Data Structures and Algorithms 
-- 📫 How to reach me ... suaksh9990@gmail.com
-- 😄 Pronouns: ...he/him
+Hi, I’m Suaksh — a passionate programmer who loves turning coffee ☕ and code 💻 into real-world solutions.
 
-<!---
-Suaksh007/Suaksh007 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🔧 I build with Python, JavaScript, Java, C#, HTML/CSS, and I’m always exploring new stacks and tools.
+🛠️ From backend logic to pixel-perfect frontends, I enjoy crafting clean, maintainable, and efficient code.
+🔐 I have a growing interest in cybersecurity, and I’m always learning how to build safer systems.
+🗂️ Databases, APIs, debugging, automation — bring it on!
+
+When I’m not coding, I’m probably refactoring my to-do list or teaching myself something new just for the fun of it.
