@@ -23,6 +23,6 @@ Passionate Business Analyst and Software Developer with a solid foundation in co
 
 ## 🙋🏻‍♂️ Connect with Me 📨 
 - 📫 [Email](mailto:suaksh9990@gmail.com)
-- 🔗 [LinkedIn](https://www.linkedin.com/in/sparsh-sharma-320431187)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/suaksh-sharma)
 
 I’m excited to explore opportunities and collaborate on projects that merge technology and business. Let’s connect! 🌍
